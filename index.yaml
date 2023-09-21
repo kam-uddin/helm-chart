@@ -3,12 +3,23 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-21T22:53:42.9847403+01:00"
+    created: "2023-09-21T23:12:48.8574443+01:00"
     description: A Helm chart for Kubernetes
-    digest: 71863f50d31eeebb6f1fb6fa7b9f5b62c9fbc3efabfd4a5f8be6d167a8df3ca9
+    digest: 96861aa6bbf2a7f8a6bd66596da0ffb8cece8fda357790d97ff85c962bb5c6b2
     name: helm-chart-test
     type: application
     urls:
     - https://github.com/kam-uddin/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-21T22:53:42.9784976+01:00"
+  springboot-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-21T23:12:48.8574443+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2fa857a63db902a338fce74e70bba4a0a7e102123f8b4cebeedecae8e297e7d3
+    name: springboot-chart
+    type: application
+    urls:
+    - https://github.com/kam-uddin/helm-chart/springboot-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-21T23:12:48.8574443+01:00"
